@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Justin
+- 👀 I’m interested in knowing what technology hide 
+- 🌱 I’m currently learning python & JS
+- 💞️ I’m looking to collaborate on creating a software agency
+- 📫 How to reach me: my discord is @just1diax
+- 😄 Pronouns: he
+- ⚡ Fun fact: I selled a software for 60EUR (EUR because I'm from Italy)
