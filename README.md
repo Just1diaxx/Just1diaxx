@@ -2,7 +2,7 @@
 - 👀 I’m interested in knowing what technology hides 
 - 🌱 I’m currently learning python & JS
 - 🧡 My favourite programmation language is Visual Basic .NET
-- 💞️ I’m trying create a software agency
+- 💞️ I’m trying to create a software agency
 - 📫 How to reach me: my discord is @just1diax.py or https://discord.gg/RERfFFy8Vc
 - 😄 Pronouns: he
 - ⚡ Fun fact: I selled a software for 60EUR (EUR because I'm from Italy)
