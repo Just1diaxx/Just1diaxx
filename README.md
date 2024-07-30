@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Justin
 - 👀 I’m interested in knowing what technology hides 
-- 🌱 I’m currently learning python & JS
-- 🧡 My favourite programmation language is Visual Basic .NET
+- 🌱 I know: Python, JS, Java and VB .NET
+- 🧡 My favourite programmation language is Java
 - 💞️ I’m trying to create a software agency
 - 📫 How to reach me: my discord is @just1diax.py or https://discord.gg/RERfFFy8Vc
 - 😄 Pronouns: he
