@@ -3,5 +3,5 @@
 🎳 I develop random stuff
 📍 Venice
 ✈️ just1diax.py on Discord
-https://just1diax.netlify.app
 ```
+https://just1diax.netlify.app
