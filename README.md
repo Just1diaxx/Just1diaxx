@@ -4,4 +4,4 @@
 📍 Venice
 ✈️ just1diax.py on Discord
 ```
-https://just1diax.netlify.app
+Check my website -> https://just1diax.netlify.app
