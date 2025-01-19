@@ -1,7 +1,7 @@
 ```
 👋 Hi, I'm Just1diax.
 🎳 I develop random stuff
-📍 Venice
+ 📍 Venice
 ✈️ theonejustt on Discord
 ```
 ![](https://raw.githubusercontent.com/Just1diaxx/github-stats/master/generated/overview.svg#gh-dark-mode-only)
