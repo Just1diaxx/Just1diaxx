@@ -1,7 +1,7 @@
 # [![](https://skillicons.dev/icons?i=htmx)](Just1diaxx) Just1diaxx
-- 🇮🇹 Italian
-- 🍕Pizza
-- 🚀I'm not a simp
+
+# Bio
+🇮🇹 Italian, 🐈Cats, 🎧 Music
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,py,figma,java,nodejs,discordjs,npm,git,net,lua)](https://skillicons.dev)
