@@ -1,6 +1,5 @@
 # [![](https://skillicons.dev/icons?i=htmx)](Just1diaxx) Just1diaxx
 
-# Bio
 🇮🇹 Italian, 🐈Cats, 🎧 Music
 
 # Skills
