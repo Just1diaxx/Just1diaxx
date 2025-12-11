@@ -3,4 +3,4 @@
 🇮🇹 Italian, 🐈Cats, 🎧 Music
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,py,figma,java,nodejs,discordjs,npm,git,net,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,py,figma,java,nodejs,discordjs,npm,git,net,lua,ts)](https://skillicons.dev)
